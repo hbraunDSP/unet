@@ -56,7 +56,7 @@ To feed the unet, data augmentation is necessary.
 
 An [image deformation](http://faculty.cs.tamu.edu/schaefer/research/mls.pdf) method is used, the code is 
 
-availabel in this [repository](https://github.com/cxcxcxcx/imgwarp-opencv).
+available in this [repository](https://github.com/cxcxcxcx/imgwarp-opencv).
 
 
 
